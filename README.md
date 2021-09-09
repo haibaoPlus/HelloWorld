@@ -4,8 +4,6 @@ this is my first repository
 #include<stdio.h>
 
 int main(){
-    printf("Have a good time!\n");
-    printf("Have fun!\n");
-    printf("successfully!\n");
+    printf("Hello World!\n");
     return 0;
 }
