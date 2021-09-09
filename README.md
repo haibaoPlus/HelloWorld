@@ -5,5 +5,6 @@ this is my first repository
 
 int main(){
   printf("Hello World!");
-  print("Hello Linux!");
+  printf("Hello Linux!");
+  printf("Hello Windows!");
 }
