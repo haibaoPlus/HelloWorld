@@ -5,4 +5,5 @@ this is my first repository
 
 int main(){
     printf("Have a good time!\n");
+    printf("Have fun!\n");
 }
